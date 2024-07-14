@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My name's Sebastián. I'm a Software Development student in the Netherlands.
+My name's Sebastián. I'm a Software Developmer based in the Netherlands.
 
-I'm currently preparing for my finals! 📖🔍
+I'm learning Java
